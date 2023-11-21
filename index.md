@@ -22,3 +22,4 @@ $ git and github
 - [ ] login to my github education course
 - [ ] start a course for the day
 - [ ] finish and understand atleast a course a day
+- [ ] github education pack is the best
