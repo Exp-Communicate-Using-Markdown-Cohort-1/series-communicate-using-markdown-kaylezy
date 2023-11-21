@@ -16,3 +16,9 @@ ReactJs
 $ git and github
 
 ```
+### Using markdown to create a list
+
+- [ ] open my system in the morning
+- [ ] login to my github education course
+- [ ] start a course for the day
+- [ ] finish and understand atleast a course a day
